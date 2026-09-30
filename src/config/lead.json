@@ -1,7 +1,7 @@
 {
   "leadId": "PL-025",
   "businessName": "Dental Trends",
-  "nicheId": "all niches",
+  "nicheId": "dentist",
   "category": "Dental clinic",
   "phone": "03114719494",
   "whatsapp": "923114719494",
@@ -17,6 +17,6 @@
   "yearsExperience": 5,
   "workingHours": "Open today · Reply on WhatsApp fast",
   "taglineOverride": "",
-  "about": "Dental Trends provides trusted all niches services in Lahore.",
+  "about": "Dental Trends provides trusted dentist services in Lahore.",
   "urduSupport": true
 }
